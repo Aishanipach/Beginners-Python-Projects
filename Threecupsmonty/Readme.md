@@ -7,6 +7,7 @@
    3. If you guess the right answer out of five too, you win!
    
 <br>
+
 ## Understanding the algorithm:
 
 ![Image of the game flow](https://github.com/Aishanipach/Beginners-Python-Programs/blob/main/Threecupsmonty/three_cups_monty.PNG)
