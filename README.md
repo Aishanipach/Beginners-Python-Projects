@@ -4,3 +4,5 @@ These are some of the interesting python programs that I came across and would b
 ## Index:
 1. [Count Primes](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/Count_primes)
 2. [Three Cup Monty(extended)](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/Threecupsmonty)
+3. [TicTacToe](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/TicTacToe)
+4. [Summer of '69](https://github.com/Aishanipach/Beginners-Python-Programs/blob/main/Summerof'69.py)
