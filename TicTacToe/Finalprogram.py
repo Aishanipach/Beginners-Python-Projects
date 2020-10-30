@@ -1,7 +1,8 @@
-from IPython.display import clear_output
+#from IPython.display import clear_output
 
 def display_board(board):
-    clear_output()  # This only works in jupyter!
+#    clear_output()   (This only works in jupyter!)
+    print("\n"*100)
     
     print('   |   |')
     print(' ' + board[7] + ' | ' + board[8] + ' | ' + board[9])
@@ -18,6 +19,8 @@ def display_board(board):
 test_board = ['#','X','O','X','O','X','O','X','O','X']
 display_board(test_board)
 
+#------------------------------------------------------------------------------------------
+
 def player_input():
     marker = ''
     
@@ -30,11 +33,16 @@ def player_input():
         return ('O', 'X')
 
 player_input()
+
+#---------------------------------------------------------------------------------------------
+
 def place_marker(board, marker, position):
     board[position] = marker
 
 place_marker(test_board,'$',8)
 display_board(test_board)
+
+#---------------------------------------------------------------------------------------------
 
 def win_check(board,mark):
     
@@ -49,6 +57,8 @@ def win_check(board,mark):
 
 win_check(test_board,'X')
 
+#---------------------------------------------------------------------------------------------
+
 import random
 
 def choose_first():
@@ -57,15 +67,21 @@ def choose_first():
     else:
         return 'Player 1'
 
+    #---------------------------------------------------------------------------------------------
+    
 def space_check(board, position):
     
     return board[position] == ' '
+
+#---------------------------------------------------------------------------------------------
 
 def full_board_check(board):
     for i in range(1,10):
         if space_check(board, i):
             return False
     return True
+
+#---------------------------------------------------------------------------------------------
 
 def player_choice(board):
     position = 0
@@ -74,6 +90,8 @@ def player_choice(board):
         position = int(input('Choose your next position: (1-9) '))
         
     return position
+
+#---------------------------------------------------------------------------------------------
 
 def replay():
     
