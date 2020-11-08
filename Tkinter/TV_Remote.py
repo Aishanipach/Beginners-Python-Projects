@@ -1,3 +1,6 @@
+#A TV Remaote GUI ( turns TV on/off, sets Volume and change channels)
+
+
 from tkinter import *
 import tkinter.messagebox
 class TV:
