@@ -1,6 +1,4 @@
 #A TV Remaote GUI ( turns TV on/off, sets Volume and change channels)
-
-
 from tkinter import *
 import tkinter.messagebox
 class TV:
@@ -37,7 +35,7 @@ class TV:
 
     def setVolume(self,volume):
         if(self.on==True):
-            rectangleCanvas.create_rectangle(20, 20,100,80, width=0, fill='white')
+            rectangleCanvas.create_rectangle(20, 20,300,80, width=0, fill='white')
             self.vol=volume
             l=(30*volume)
             print(l)
@@ -136,7 +134,7 @@ btnLog = Text(leftFrame, width =20, height = 20, takefocus=0)
 btnLog.grid(row=1, column=0, padx=10, pady=2)
 btnFrame = Frame(leftFrame, width=200, height = 100)
 btnFrame.grid(row=2, column=0, padx=10, pady=2)
-rectangleCanvas = Canvas(leftFrame, width=250, height=30, bg='white')
+rectangleCanvas = Canvas(leftFrame, width=150, height=30, bg='white')
 rectangleCanvas.grid(row=3, column=0, padx=10, pady=2)
 #Channel Number 
 one = Button(btnFrame, text="1", command=lambda:t1.setChannel(1))
@@ -172,13 +170,13 @@ vone.grid(row=4, column=0, padx=10, pady=2)
 vtwo = Button(btnFrame, text="Vol2", command=lambda:t1.setVolume(2))
 vtwo.grid(row=4, column=1, padx=10, pady=2)
 
-vthree = Button(btnFrame, text="Vol2", command=lambda:t1.setVolume(3))
+vthree = Button(btnFrame, text="Vol3", command=lambda:t1.setVolume(3))
 vthree.grid(row=4, column=2, padx=10, pady=2)
 
-vfour = Button(btnFrame, text="Vol2", command=lambda:t1.setVolume(4))
+vfour = Button(btnFrame, text="Vol4", command=lambda:t1.setVolume(4))
 vfour.grid(row=4, column=3, padx=10, pady=2)
 
-vfive = Button(btnFrame, text="Vol2", command=lambda:t1.setVolume(5))
+vfive = Button(btnFrame, text="Vol5", command=lambda:t1.setVolume(5))
 vfive.grid(row=4, column=4, padx=10, pady=2)
 
 
