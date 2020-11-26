@@ -10,13 +10,24 @@ class Cards:
     def __init__(self, suit, rank):
         self.rank=rank
         self.suit=suit
+        self.pts=points[rank]
     
     def __str__(self):
         return self.rank 
 
+class Create_Deck:
+    def __init__(self):
+        self.deck=[]
+
+        for suit in suits:
+            for card in cards:
+                new_card=Cards(suit, card)
+                self.deck.append(new_card)
+
 def main():
      print("\t WELCOME TO the CARD GAME- WAR!\n\n")
      print("Let's shufle,divide and start!")
-     print(points)
+     ioeck= Create_Deck()
+     print(ioeck.deck[1].suit)
 
 main()
