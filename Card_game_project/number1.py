@@ -1,6 +1,7 @@
-cards=["Ace", "King", "Queen", "Jack", "One", "Two", "Three", "Four", "Five",
-             "Six", "Seven", "Eight", "Nine", "Ten"]
-suits=["Heart", "Spade", "Diamond","Club"]
+import random 
+
+cards=('Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine', 'Ten', 'Jack', 'Queen', 'King', 'Ace')
+suits=("Heart", "Spade", "Diamond","Club")
 
 points={"Ace":14, "King":13, "Queen":12, "Jack":11, "One":1, "Two":2, "Three":3, "Four":4, "Five":5,
              "Six":6, "Seven":7, "Eight":8, "Nine":9, "Ten":10}
@@ -23,11 +24,16 @@ class Create_Deck:
             for card in cards:
                 new_card=Cards(suit, card)
                 self.deck.append(new_card)
+        random.shuffle(self.deck) #shuffled the created deck
 
+    def deal_1(self):
+        return self.deck.pop()
 def main():
-     print("\t WELCOME TO the CARD GAME- WAR!\n\n")
-     print("Let's shufle,divide and start!")
-     ioeck= Create_Deck()
-     print(ioeck.deck[1].suit)
+    print("\t WELCOME TO the CARD GAME- WAR!\n\n")
+    print("Let's shufle,divide and start!")
+    d=Create_Deck()
+    print(d.deck[-1])
+    print(d.deal_1())
+    print(len(d.deck))
 
 main()
