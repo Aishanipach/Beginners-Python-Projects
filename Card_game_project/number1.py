@@ -19,6 +19,7 @@ class Cards:
 class Create_Deck:
     def __init__(self):
         self.deck=[]
+        
 
         for suit in suits:
             for card in cards:
@@ -28,12 +29,20 @@ class Create_Deck:
 
     def deal_1(self):
         return self.deck.pop()
+    
+    def add_cards(self,added_cards, name):
+        if type(added_cards) == type([]):
+            self.deck.extend(added_cards)
+        else:
+            self.deck.append(added_cards)
+        print(f"{name} player has {len(self.deck)} cards")
+
+
 def main():
     print("\t WELCOME TO the CARD GAME- WAR!\n\n")
     print("Let's shufle,divide and start!")
     d=Create_Deck()
-    print(d.deck[-1])
-    print(d.deal_1())
-    print(len(d.deck))
-
+    d.deal_1()
+    d.add_cards(["2", "Ace","hey"], "P1")
 main()
+
