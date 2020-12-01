@@ -99,6 +99,10 @@ def main():
     btnLog = Text(leftFrame, width =25, height = 20, takefocus=0)
     btnLog.grid(row=1, column=0, padx=10, pady=2)
     
+    lbl = Label( leftFrame, width =15, height = 1,text="^WAR rounds' log^", relief=RAISED )
+    
+    lbl.grid(row=2, column=0, padx=10, pady=2)
+    
     
     print("\t WELCOME TO the CARD GAME- WAR!\n\n")
     print("Let's shufle,divide and start!") 
@@ -194,6 +198,6 @@ def main():
     root.mainloop()
     w.pack()
     k.pack()
-        
+    lbl.pack()   
 main()
 
