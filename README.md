@@ -9,3 +9,4 @@ I have listed some of the interesting python programs that I came across and wou
 3. [TicTacToe](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/TicTacToe)
 4. [Summer of '69](https://github.com/Aishanipach/Beginners-Python-Programs/blob/main/Summerof'69.py)
 5. [Tkinter](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/Tkinter)
+6. [Card game project](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/Card_game_project)
