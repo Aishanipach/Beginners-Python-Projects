@@ -99,7 +99,7 @@ def main():
     btnLog = Text(leftFrame, width =25, height = 20, takefocus=0)
     btnLog.grid(row=1, column=0, padx=10, pady=2)
     
-    lbl = Label( leftFrame, width =15, height = 1,text="^WAR rounds' log^", relief=RAISED )
+    lbl = Label( leftFrame, width =18, height = 1,text=" ^ WAR rounds' log ^ ")
     
     lbl.grid(row=2, column=0, padx=10, pady=2)
     
