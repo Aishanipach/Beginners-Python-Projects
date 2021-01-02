@@ -19,4 +19,4 @@ f=open("Mynewimage.jpg", 'wb')
 f.write(image_l.content)
 f.close()
 
-#This program saves the image in the folder where your python file exists
+#This program saves the image from a single webpage in the folder where your python file exists 
