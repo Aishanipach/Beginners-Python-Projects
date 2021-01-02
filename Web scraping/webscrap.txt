@@ -1,0 +1,6 @@
+#IMP SYNTAX
+soup.select('div')  #for a div tag
+soup.select('#some_id')  #to get elements with this id
+soup.select('.some_class')  #elements containing this class
+soup.select('div span')  #any element named span under a div
+soup.select(' div > span')  #with any element named span directly under a div w/o anything in b/w
