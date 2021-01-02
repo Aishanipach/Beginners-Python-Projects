@@ -1,4 +1,8 @@
-#IMP SYNTAX
+#Libraries 
+import requests
+import bs4 (BeautifulSoup)
+
+#Syntax for specific tags 
 soup.select('div')  #for a div tag
 soup.select('#some_id')  #to get elements with this id
 soup.select('.some_class')  #elements containing this class
