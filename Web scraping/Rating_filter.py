@@ -10,8 +10,8 @@ while (x<20): #20 is the number of pages on the website
     ctr=0
     for user in (prod):
         
-        if(user.select('.star-rating.Three')==[]):
+        if(user.select('.star-rating.Three')==[]): #three- starred items
             pass
         else:
-            print(user.select('a')[1]['title'])
+            print(user.select('a')[1]['title']) #print the name of the product
     x=x+1   
