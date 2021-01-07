@@ -1,7 +1,7 @@
 #smtp server (simple mail transfer protocol)
 import smtplib
 import getpass
-smtp_obj= smtplib.SMTP('smtp.gmail.com',587)
+smtp_obj= smtplib.SMTP('smtp.gmail.com',587) #You can use 465 (ssl call) and skip starttls() call in that case 
 smtp_obj.ehlo()
 smtp_obj.starttls()
 
