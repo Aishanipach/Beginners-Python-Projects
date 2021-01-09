@@ -1,0 +1,13 @@
+'ALL' 
+'BEFORE date' {Date format= 01-Nov-2020}
+'ON date' 
+'SINCE date'
+'FROM some_string' {FROM user@exam.com}
+'TO some_string'
+'CC/BCC some_string' {Can put size limit in imaplib. to change it use imaplib._MAXLINE='the limit in digits'}
+'SUBJECT some_string'
+'BODY some_string'
+'TEXT "some_string_with_spaces"' {wrap the sting with spaces with double quotes}
+'SEEN/UNSEEN'
+'ANSWERED/UNANSWERED'
+'DELETED/UNDELETED'
