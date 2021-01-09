@@ -11,4 +11,4 @@ I have listed some of the interesting python related topics/ programs that I cam
 5. [Tkinter](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/Tkinter)
 6. [Card game project](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/Card_game_project)
 7. [Web Scraping](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/Web%20scraping)
-8. [Gmail Automation]
+8. [Gmail Automation](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/Gmail%20automation)
