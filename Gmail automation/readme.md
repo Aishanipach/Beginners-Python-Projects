@@ -4,6 +4,7 @@
    <img src="https://github.com/Aishanipach/Beginners-Python-Programs/blob/main/Gmail%20automation/my_first_mail.PNG" width= "400" height=" 250"/>
 
 ## [2. Receiving mail](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/Gmail%20automation)
+   <img src="https://github.com/Aishanipach/Beginners-Python-Programs/blob/main/Gmail%20automation/receive_mail.PNG"  width="300" height="100" /> <br><br>
 
 ---
 ### `smtplib` `getpass`
