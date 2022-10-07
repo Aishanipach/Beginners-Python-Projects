@@ -6,7 +6,7 @@ Feel free to add basic python scripts/programs that helped you learn python. I h
 <br>
 
 ## How to Contribute? 👩‍💻👨‍💻
-- Fork the given project 
+- Fork the given project- [How?](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) 
 - Add your program file
 - Edit **README.md**- Index Section and add your program name as follows:
   ```
