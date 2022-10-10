@@ -23,4 +23,4 @@ Feel free to add basic python scripts/programs that helped you learn python. I h
 6. [Card game project](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/Card_game_project)
 7. [Web Scraping](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/Web%20scraping)
 8. [Gmail Automation](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/Gmail%20automation)
-
+9. [GUI Calculator](https://github.com/1-Rishabh-Jain-1/Beginners-Python-Projects/blob/main/gui_calculator.py)
