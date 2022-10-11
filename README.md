@@ -13,6 +13,7 @@ Feel free to add basic python scripts/programs that helped you learn python. I h
       9. [Name of the Program](url)
           [your full name](github-url)
   ```
+- Star the repo & you are done!
 
 ## Index 📑:
 1. [Count Primes](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/Count_primes)
