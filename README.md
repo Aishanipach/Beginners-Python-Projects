@@ -20,4 +20,5 @@ Feel free to add basic python scripts/programs that helped you learn python. I h
 2. [Swap elements in an array](https://github.com/AG-444/Beginners-Python-Projects_AP/blob/main/swap_elements_in_array.py)
 3. [sum of elements of an array](https://github.com/AG-444/Beginners-Python-Projects_AP/blob/main/sum_of_elements_of_an_array.py)
 4. [print_diamond_shape](https://github.com/AG-444/Beginners-Python-Projects_AP/blob/main/diamond_symbol.py)
-  [Aditya Garg](https://github.com/AG-444)
+  
+[Aditya Garg](https://github.com/AG-444)
