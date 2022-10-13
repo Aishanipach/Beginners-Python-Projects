@@ -10,8 +10,7 @@ Feel free to add basic python scripts/programs that helped you learn python. I h
 - Add your program file
 - Edit **README.md**- Index Section and add your program name as follows:
   ```
-      n. [Name of the Program](url)
-          [your full name](github-url)
+      n. [Name of the Program](url)- [your full name](github-url)
   ```
 - Star the repo & you are done!
 
@@ -25,5 +24,4 @@ Feel free to add basic python scripts/programs that helped you learn python. I h
 7. [Web Scraping](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/Web%20scraping)
 8. [Gmail Automation](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/Gmail%20automation)
 9. [GUI Calculator](https://github.com/1-Rishabh-Jain-1/Beginners-Python-Projects/blob/main/gui_calculator.py)
-10. [Higher Lower Game](https://github.com/TheTriangulam/Beginners-Python-Projects/tree/main/Num_guess_by_Comp)
-    [Devivaraprasad Rathikindi](https://github.com/TheTriangulam)
+10. [Higher Lower Game](https://github.com/TheTriangulam/Beginners-Python-Projects/tree/main/Num_guess_by_Comp)- [Devivaraprasad Rathikindi](https://github.com/TheTriangulam)
