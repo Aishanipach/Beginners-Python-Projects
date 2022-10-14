@@ -10,8 +10,7 @@ Feel free to add basic python scripts/programs that helped you learn python. I h
 - Add your program file
 - Edit **README.md**- Index Section and add your program name as follows:
   ```
-      n. [Name of the Program](url)
-          [your full name](github-url)
+      n. [Name of the Program](url)- [your full name](github-url)
   ```
 - Star the repo & you are done!
 
