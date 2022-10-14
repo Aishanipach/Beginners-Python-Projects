@@ -16,9 +16,18 @@ Feel free to add basic python scripts/programs that helped you learn python. I h
 - Star the repo & you are done!
 
 ## Index 📑:
-1. [prime numbers in a range](https://github.com/AG-444/Beginners-Python-Projects_AP/blob/main/prime_numbers_in_input_range.py)
-2. [Swap elements in an array](https://github.com/AG-444/Beginners-Python-Projects_AP/blob/main/swap_elements_in_array.py)
-3. [sum of elements of an array](https://github.com/AG-444/Beginners-Python-Projects_AP/blob/main/sum_of_elements_of_an_array.py)
-4. [print_diamond_shape](https://github.com/AG-444/Beginners-Python-Projects_AP/blob/main/diamond_symbol.py)
-  
-[Aditya Garg](https://github.com/AG-444)
+1. [Count Primes](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/Count_primes)
+2. [Three Cup Monty(extended)](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/Threecupsmonty)
+3. [TicTacToe](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/TicTacToe)
+4. [Summer of '69](https://github.com/Aishanipach/Beginners-Python-Programs/blob/main/Summerof'69.py)
+5. [Tkinter](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/Tkinter)
+6. [Card game project](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/Card_game_project)
+7. [Web Scraping](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/Web%20scraping)
+8. [Gmail Automation](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/Gmail%20automation)
+9. [GUI Calculator](https://github.com/1-Rishabh-Jain-1/Beginners-Python-Projects/blob/main/gui_calculator.py)
+10. [Higher Lower Game](https://github.com/TheTriangulam/Beginners-Python-Projects/tree/main/Num_guess_by_Comp)- [Devivaraprasad Rathikindi](https://github.com/TheTriangulam)
+11. [Tkinter Recommendation System](https://github.com/varshaah2407/tree/main/Beginners-Python-Projects/) - [Varshaah Shashidhar](https://github.com/varshaah2407)
+12. [prime numbers in a range](https://github.com/AG-444/Beginners-Python-Projects_AP/blob/main/prime_numbers_in_input_range.py) - [Aditya Garg](https://github.com/AG-444)
+13. [Swap elements in an array](https://github.com/AG-444/Beginners-Python-Projects_AP/blob/main/swap_elements_in_array.py) - [Aditya Garg](https://github.com/AG-444)
+14. [sum of elements of an array](https://github.com/AG-444/Beginners-Python-Projects_AP/blob/main/sum_of_elements_of_an_array.py) - [Aditya Garg](https://github.com/AG-444)
+15. [print_diamond_shape](https://github.com/AG-444/Beginners-Python-Projects_AP/blob/main/diamond_symbol.py) - [Aditya Garg](https://github.com/AG-444)
