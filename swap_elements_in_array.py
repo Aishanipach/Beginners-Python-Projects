@@ -3,7 +3,7 @@ i = 0
 a = 0
 
 #ask user to create list
-print("Input numbers and input @ to stop inputing")
+print("Input numbers and input end to stop inputing")
 while i < 1:
     x = input()
     if x == "end":
