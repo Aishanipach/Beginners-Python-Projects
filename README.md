@@ -30,4 +30,6 @@ Feel free to add basic python scripts/programs that helped you learn python. I h
 13. [Swap elements in an array](https://github.com/AG-444/Beginners-Python-Projects_AP/blob/main/swap_elements_in_array.py) - [Aditya Garg](https://github.com/AG-444)
 14. [sum of elements of an array](https://github.com/AG-444/Beginners-Python-Projects_AP/blob/main/sum_of_elements_of_an_array.py) - [Aditya Garg](https://github.com/AG-444)
 15. [print_diamond_shape](https://github.com/AG-444/Beginners-Python-Projects_AP/blob/main/diamond_symbol.py) - [Aditya Garg](https://github.com/AG-444)
-16. [email-sender-app](https://github.com/arnavvgupta/Beginners-Python-Projects)
+16. [email response sender](https://github.com/arnavvgupta/email-response-sender) - [Arnav Gupta](https://github.com/arnavvgupta)
+
+
