@@ -32,5 +32,5 @@ Feel free to add basic python scripts/programs that helped you learn python. I h
 15. [print_diamond_shape](https://github.com/AG-444/Beginners-Python-Projects_AP/blob/main/diamond_symbol.py) - [Aditya Garg](https://github.com/AG-444)
 16. [email response sender](https://github.com/arnavvgupta/email-response-sender) - [Arnav Gupta](https://github.com/arnavvgupta)
 17. [Quick Sort](https://github.com/varshaah2407/Beginners-Python-Projects/blob/main/quick_sort.py) - [Varshaah Shashidhar](https://github.com/varshaah2407)
-
+18. [aritmetic median, biggest number and lowest number](https://github.com/arnavvgupta/functionMaxMinMedian.py) 
 
