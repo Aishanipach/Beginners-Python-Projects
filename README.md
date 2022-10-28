@@ -34,3 +34,4 @@ Feel free to add basic python scripts/programs that helped you learn python. I h
 17. [Quick Sort](https://github.com/varshaah2407/Beginners-Python-Projects/blob/main/quick_sort.py) - [Varshaah Shashidhar](https://github.com/varshaah2407)
 18. [aritmetic median, biggest number and lowest number](https://github.com/arnavvgupta/functionMaxMinMedian.py) 
 19. [Insertion Sort](https://github.com/musaibbatghar/Beginners-Python-Projects/blob/main/Insertion_Sort.py) - [Musaib Batghar](https://github.com/musaibbatghar)
+20. [Snake game](https://github.com/Aishanipach/Beginners-Python-Projects/compare/main...meanshkumar:Beginners-Python-Projects:main?expand=1)- [Ansh Kumar](https://github.com/meanshkumar)
