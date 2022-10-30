@@ -38,3 +38,4 @@ Feel free to add basic python scripts/programs that helped you learn python. I h
 21. [Merge_Sort](https://github.com/proPrateekSahu/Beginners-Python-Projects/blob/main/MergeSort.py) - [Prateek Kumar Sahu](https://github.com/proPrateekSahu)
 22. [Binary_Search](https://github.com/proPrateekSahu/Beginners-Python-Projects/blob/main/BinarySearch) - [Prateek Kumar Sahu](https://github.com/proPrateekSahu)
 23. [TowerOfHoni](https://github.com/proPrateekSahu/Beginners-Python-Projects/blob/main/towerOfHoni.py) - [Prateek Kumar Sahu](https://github.com/proPrateekSahu)
+24. [Matrix_Multiplier](https://github.com/proPrateekSahu/Beginners-Python-Projects/blob/main/MatrixMultiplier.py) - [Prateek Kumar Sahu](https://github.com/proPrateekSahu)
