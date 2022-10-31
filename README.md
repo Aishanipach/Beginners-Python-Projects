@@ -36,6 +36,10 @@ Feel free to add basic python scripts/programs that helped you learn python. I h
 19. [Insertion Sort](https://github.com/musaibbatghar/Beginners-Python-Projects/blob/main/Insertion_Sort.py) - [Musaib Batghar](https://github.com/musaibbatghar)
 20. [Snake game](https://github.com/Aishanipach/Beginners-Python-Projects/compare/main...meanshkumar:Beginners-Python-Projects:main?expand=1)- [Ansh Kumar](https://github.com/meanshkumar)
 21. [Merge_Sort](https://github.com/proPrateekSahu/Beginners-Python-Projects/blob/main/MergeSort.py) - [Prateek Kumar Sahu](https://github.com/proPrateekSahu)
+
+22. [Fibonacci_Series](https://github.com/Skillz619/Beginners-Python-Projects/blob/main/fibonacci_series.py) - [Shreekar Kolanu](https://github.com/Skillz619)
+
 22. [Binary_Search](https://github.com/proPrateekSahu/Beginners-Python-Projects/blob/main/BinarySearch) - [Prateek Kumar Sahu](https://github.com/proPrateekSahu)
 23. [TowerOfHoni](https://github.com/proPrateekSahu/Beginners-Python-Projects/blob/main/towerOfHoni.py) - [Prateek Kumar Sahu](https://github.com/proPrateekSahu)
 24. [Matrix_Multiplier](https://github.com/proPrateekSahu/Beginners-Python-Projects/blob/main/MatrixMultiplier.py) - [Prateek Kumar Sahu](https://github.com/proPrateekSahu)
+
