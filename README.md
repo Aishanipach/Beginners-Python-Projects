@@ -13,7 +13,7 @@ I have listed some of the interesting python related topics and programs that I 
   - Add test cases for testing new changes
   - Fork the project and work with the code to learn
 
-## How to Fork and Contribute to the Main? 👩‍💻👨‍💻
+## How to Fork and Contribute to the Main 💻👨‍💻
 - Fork the given project- [How?](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) 
 - Make a folder named after your program
 - Add your program file
