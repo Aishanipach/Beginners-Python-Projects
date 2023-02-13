@@ -1,18 +1,26 @@
 # First-Python-Program - CONTRIBUTE FOR HACKTOBERFEST! ✔
-
-
-Feel free to add basic python scripts/programs that helped you learn python. I have listed some of the interesting python related topics/ programs that I came across and would be fun for those who are learning python.
 ### `Visual Studio Code` `Hacktoberfest'22`
-<br>
+## Introduction
+I have listed some of the interesting python related topics and programs that I came across and would be fun for those who are learning python. Feel free to add basic python scripts that helped you learn python. Remember that making comments in the projects is helpful for learning.
 
-## How to Contribute? 👩‍💻👨‍💻
+## How to use
+  - Add your own project in the repository: 
+        - create an individual subfolder named with the projects title
+        - add project in folder
+        - make README file explaining project functionality
+        - add username into README file
+  - Add helpful comments in higher level projects 
+  - Add test cases for testing new changes
+  - Fork the project and work with the code to learn
+
+## How to Fork and Contribute to the Main? 👩‍💻👨‍💻
 - Fork the given project- [How?](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) 
+- Make a folder named after your program
 - Add your program file
 - Edit **README.md**- Index Section and add your program name as follows:
-  ```
-      n. [Name of the Program](url)- [your full name](github-url)
-  ```
-- Star the repo & you are done!
+     [Name of the Program](url)- [your full name](github-url)
+- in **README.md** write about the purpose of the project and concepts or data structures used 
+- Start the repo & you are done!
 
 ## Index 📑:
 1. [Count Primes](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/Count_primes)
