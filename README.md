@@ -53,3 +53,4 @@ I have listed some of the interesting python related topics and programs that I 
 27. [Create Code To Find LCM](https://github.com/abhaypratapsinghkanpur/Beginners-Python-Projects/blob/main/Code%20To%20Find%20LCM) - [Abhay Pratap Singh](https://github.com/abhaypratapsinghkanpur)
 28. [Create Python Program to Find the Square Root.py](https://github.com/abhaypratapsinghkanpur/Beginners-Python-Projects/blob/main/Create%20Python%20Program%20to%20Find%20the%20Square%20Root.py) - [Abhay Pratap Singh](https://github.com/abhaypratapsinghkanpur)
 29. [Caeser Cipher](https://github.com/Damsith-LK/Beginners-Python-Projects/blob/main/Caeser%20Cipher.py) - [Damsith Wijekoon](https://github.com/Damsith-LK)
+30. [DNA Sequence Analysis](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/DNA_Sequence_Analysis) - [Amelia Lauth](https://github.com/alauth22)
