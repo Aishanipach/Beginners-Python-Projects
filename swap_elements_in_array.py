@@ -1,16 +1,7 @@
-list1 = []
-i = 0
-a = 0
-
-#ask user to create list
-print("Input numbers and input end to stop inputing")
-while i < 1:
-    x = input()
-    if x == "end":
-        break
-    else:
-        list1.append(x)
-
+#ask user to enter a numbers like 12 35 56 13
+user_Input=input("enter numbers")  
+#useing map function to short the code and remove the loop
+list1= list(map(int, user_Input.split()))
 #swap elements of list
 print(list1)
 print("select two positions to be swapped")
