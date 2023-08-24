@@ -23,4 +23,3 @@ def count_primes2(num):
 
 num= int(input("Enter limit: "))
 count_primes2(num)
-
