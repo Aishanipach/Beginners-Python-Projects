@@ -45,7 +45,6 @@ I have listed some of the interesting python related topics and programs that I 
 20. [Snake game](https://github.com/Aishanipach/Beginners-Python-Projects/compare/main...meanshkumar:Beginners-Python-Projects:main?expand=1)- [Ansh Kumar](https://github.com/meanshkumar)
 21. [Merge_Sort](https://github.com/proPrateekSahu/Beginners-Python-Projects/blob/main/MergeSort.py) - [Prateek Kumar Sahu](https://github.com/proPrateekSahu)
 22. [Binary_Search](https://github.com/proPrateekSahu/Beginners-Python-Projects/blob/main/BinarySearch) - [Prateek Kumar Sahu](https://github.com/proPrateekSahu)
-
 23. [Fibonacci_Series](https://github.com/Skillz619/Beginners-Python-Projects/blob/main/fibonacci_series.py) - [Shreekar Kolanu](https://github.com/Skillz619)
 24. [Binary_Search](https://github.com/proPrateekSahu/Beginners-Python-Projects/blob/main/BinarySearch) - [Prateek Kumar Sahu](https://github.com/proPrateekSahu)
 25. [TowerOfHoni](https://github.com/proPrateekSahu/Beginners-Python-Projects/blob/main/towerOfHoni.py) - [Prateek Kumar Sahu](https://github.com/proPrateekSahu)
@@ -54,3 +53,4 @@ I have listed some of the interesting python related topics and programs that I 
 28. [Create Python Program to Find the Square Root.py](https://github.com/abhaypratapsinghkanpur/Beginners-Python-Projects/blob/main/Create%20Python%20Program%20to%20Find%20the%20Square%20Root.py) - [Abhay Pratap Singh](https://github.com/abhaypratapsinghkanpur)
 29. [Caeser Cipher](https://github.com/Damsith-LK/Beginners-Python-Projects/blob/main/Caeser%20Cipher.py) - [Damsith Wijekoon](https://github.com/Damsith-LK)
 30. [DNA Sequence Analysis](https://github.com/Aishanipach/Beginners-Python-Programs/tree/main/DNA_Sequence_Analysis) - [Amelia Lauth](https://github.com/alauth22)
+31. [Heap Sort](https://github.com/musaibbatghar/Beginners-Python-Projects/blob/main/Heap_Sort.py) - [Musaib Batghar](https://github.com/musaibbatghar)
