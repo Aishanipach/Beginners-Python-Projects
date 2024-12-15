@@ -1,18 +1,12 @@
 list1 = []
 i = 0
 a = 0
-print("Input numbers and enter 'end' to stop inputing")
-while i < 1:
-    x = input()
-    if x == "end":
-        break
-    elif x.isdigit():
-        list1.append(int(x))
-    else:
-        print("INVALID INPUT")
+#ask user to enter a numbers like 12 35 56 13
+user_Input=input("enter numbers")  
+#useing map function to short the code and remove the loop
+list1= list(map(int, user_Input.split()))
+
 print("array is:", list1)
-
-for i in range(0, len(list1)):
-    a += list1[i]    
-
+#using inbuilt function of list to add the elemnts
+a=sum(list1)
 print("Sum of all the elements of the array is:",a)
